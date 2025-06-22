@@ -1,15 +1,13 @@
 # Constructive Dark Matter and Energy Theory / 構成的ダークマター・エネルギー理論
 
-This repository provides a constructive, phase-based framework for defining and proving the true nature of dark matter and dark energy using non-integer dimensional models and structured causal density theory.  
-本リポジトリでは、ダークマターとダークエネルギーの正体を構成的かつ段階的に定義し、非整数次元構造および構成的因果密度理論により一括証明する枠組みを提供します。
+This theory unifies dark matter and dark energy using a constructive density-phase framework based on non-integer dimensionality.  
+本理論は、非整数次元に基づく構成的密度-位相フレームにより、ダークマターとダークエネルギーを統一します。
 
-## Contents / 内容
+It reveals both phenomena as consequences of hidden phase interference and dynamic spatial density evolution.  
+これら2つの現象は、不可視な位相干渉と動的空間密度の変動の結果として説明されます。
 
-- Definition of structured phase space / 構成的位相空間の定義
-- Lemma on non-visible gravitational interference / 非可視重力干渉の補題
-- Theorem on unified causal density structure / 因果密度構造の統一定理
-- Application to cosmic expansion and observation / 宇宙膨張・観測への応用
+The framework provides predictions on gravitational lensing corrections, expansion models, and observable background shifts.  
+この構成は、重力レンズ補正、宇宙膨張モデル、背景放射の変調に関する予測を含みます。
 
-## License
-
-This repository is licensed under the Apache License 2.0.
+All components are derived from first principles in a constructivist and phase-theoretic formulation.  
+すべての構成は、構成主義的かつ位相理論的な第一原理から導出されています。
